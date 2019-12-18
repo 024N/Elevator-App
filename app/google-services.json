@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51414958811",
+    "firebase_url": "https://asansor-1628d.firebaseio.com",
+    "project_id": "asansor-1628d",
+    "storage_bucket": "asansor-1628d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51414958811:android:91ca0eaef3090183",
+        "android_client_info": {
+          "package_name": "oz.asansor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51414958811-nfrmriha3c9bm1r08m3ljsqhkm4br9nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ2KBMJ_EwKIl0us4i8L4_C-XnzLis4rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51414958811-nfrmriha3c9bm1r08m3ljsqhkm4br9nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
